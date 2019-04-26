@@ -1,0 +1,1 @@
+java -cp itextpdf-5.4.0.jar;dist\CanteenManagv2.jar canteenmanagv2.CanteenManagv2

@@ -1,0 +1,19 @@
+===========================================================
+Customer Name :Shubham		Date :17/04/2019
+Phone Number :8559029920	Payment Method :Cash
+Bill No :198
+===========================================================
+QTY	PARTICULARS		RATE	TOTAL
+1	BISCUIT			10	10
+2	PEPSODENT		30	60
+3	DENIM POWDER		110	330
+2	MUNCH			8	16
+1	PARK AVENUE 		110	110
+1	COCONUT OIL		90	90
+2	TITAN WATCH		1199	2398
+3	SURF EXCEL		28	84
+2	DOVE SOAP		109	218
+1	SHOE			248	248
+===========================================================
+		TOTAL			3564
+===========================================================

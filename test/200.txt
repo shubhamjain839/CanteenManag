@@ -1,0 +1,19 @@
+===========================================================
+Customer Name :Shubhan		Date :18/04/2019
+Phone Number :455454545	Payment Method :Cash
+Bill No :200
+===========================================================
+QTY	PARTICULARS		RATE	TOTAL
+1	BISCUIT			10	10
+2	PEPSODENT		30	60
+3	DENIM POWDER		110	330
+2	MUNCH			8	16
+1	PARK AVENUE 		110	110
+2	COCONUT OIL		90	180
+3	TITAN WATCH		1199	3597
+2	SURF EXCEL		28	56
+1	DOVE SOAP		109	109
+2	SHOE			248	496
+===========================================================
+		TOTAL			4964
+===========================================================
